@@ -1,5 +1,6 @@
 # dev-environment-lab
 
+<<<<<<< HEAD
 ![Imgur](https://i.imgur.com/IsI8u9d.png)
 
 my-dev-environment
@@ -48,3 +49,5 @@ Global Git Ignore
 
 Contents of /Users/brittanycoleman/.gitignore_global
 
+=======
+>>>>>>> dd44eafe3adb3048526dfee026a3bfeefb288441
