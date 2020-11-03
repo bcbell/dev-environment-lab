@@ -1,7 +1,7 @@
 # dev-environment-lab
 
 <<<<<<< HEAD
-![Imgur](https://i.imgur.com/IsI8u9d.png)
+![Imgur](https://i.imgur.com/scY80yz.png)
 
 my-dev-environment
 
